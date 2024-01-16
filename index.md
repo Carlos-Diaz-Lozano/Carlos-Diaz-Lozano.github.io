@@ -12,4 +12,4 @@ Here is where I Will write a short **paragraph** about *myself*.
 <a href="https://earthlab.colorado.edu" target="_blank">earthlab.colorado.edu </a>
 
 ## Profile Photo
-![Foto Perfil](Foto erfil.jpg)
+![Foto Perfil](Foto perfil.jpg)
