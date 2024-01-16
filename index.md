@@ -3,4 +3,3 @@
 ### Diaz
 #### Lozano
 Here is where I Will write a short **paragraph** about *myself*.
-
