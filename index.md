@@ -7,6 +7,6 @@ Here is where I Will write a short **paragraph** about *myself*.
 
 ## Links
 [Ecopetrol page](https://www.ecopetrol.com.co/wps/portal)
-<a href="https://earthlab.colorado.edu " target="_blank">earthlab.colorado.edu </a>
+<a href="https://earthlab.colorado.edu " target="_blank"> earthlab.colorado.edu </a>
 
 ## Profile Photo
