@@ -14,4 +14,4 @@ Here is where I Will write a short **paragraph** about *myself*.
 ## Profile Photo
 
 ![Foto Perfil](Foto perfil.jpg)
-<img style="float: right;" src="Foto perfil.png" width="10%">
+<img style="float: right;" src="Foto perfil.jpg" width="10%">
